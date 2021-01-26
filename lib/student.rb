@@ -30,4 +30,4 @@ class Student
     @@all
 
   end
-end
+
